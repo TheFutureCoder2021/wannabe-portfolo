@@ -1,0 +1,1 @@
+document.getElementsByClassName('text')[0].style.fontSize = '25px';
